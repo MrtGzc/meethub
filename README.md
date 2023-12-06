@@ -21,4 +21,4 @@ https://meethubproject.netlify.app/
 ## Kendi localHostunuzda Çalıştırmak için
 
 1. projeyi indirin
-2. Terminale npm run dev yazın ve ardından ilgili localhost adresinizde çalışacaktır
+2. Terminale npm run dev yazdığınızda ilgili localhost adresinizde çalışacaktır
