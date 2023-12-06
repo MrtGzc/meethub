@@ -41,7 +41,7 @@ Bu proje, İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi
    
 ## Yayın
 
-Bu projeyi şu adresten Canlı Olarak inceleyebilirsiniz: [Toplantı Yönetim Uygulaması Demo](https://meethubproject.netlify.app/)
+Bu projeyi şu adresten Canlı Olarak inceleyebilirsiniz: [Toplantı Yönetim Uygulaması Demo](https://mertgezici.com/meetHub)
 
 ## Kendi Localhost'unuzda Çalıştırmak İçin
 
