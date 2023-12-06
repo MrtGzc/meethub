@@ -17,3 +17,8 @@ Bu proje, kullanıcıların toplantılar oluşturmasına ve katılımcıların u
 ## Yayın
 
 https://meethubproject.netlify.app/
+
+## Kendi localHostunuzda Çalıştırmak için
+
+1. projeyi indirin
+2. Terminale npm run dev yazın ve ardından ilgili localhost adresinizde çalışacaktır
