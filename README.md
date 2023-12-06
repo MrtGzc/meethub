@@ -13,16 +13,31 @@ Bu proje, İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği Öğrencisi
 
 - React.js
 - react-hot-toast
+## Kullanım Kılavuzu
 
-## Kullanım Kılavuzu 
+1. **Toplantı Oluşturma:**
+   - Bir toplantı oluşturmak için, başlık ve açıklama girerek uygun bir tarih seçmelisiniz.
+   - Oluşturduğunuz toplantıya random oluşturulan parola ile erişebileceksiniz.
 
-1. toplantı için başlık ve açıklama yazarak kendinize uygun tarihide ekleyerek bir toplantı oluşturursunuz.
-2. toplantı oluştur butonuna bastığınızda tepede bir popup belirir ve sizin ve başkalarının oluşturduğunuz toplantıya katılması için random oluşturulmuş bir parola yazar. bu parolayı daha sonra kullanmak için not etmekte fayda vardır çünkü gizli bir paroladır ve daha sonra ulaşamayabilirsiniz.
-3. sağ tarafta elinizde olan parolalar vasıtasıyla ulaşabileceğiniz bir arama yeri bulunur. oraya parolanızı girersiniz ve ilgili toplantıyla ilişkili veriler önünüze gelir
-4. ilk başta oluşturan kişinin ismi ve ona uygun tarih görünür. bu bölümden kendi isminize özel size uygun tarihi yazıp ekleyebilirsiniz.
-5. eğer ilgili toplantıya kayıt olmuş tüm kullanıların tarihleri çakışırsa uygulama size uygun tarihin hangi tarih olduğunu söyler. Aksi durumda ise uygun bir tarih bulunamadığını belirtir.
-6. bir toplantıya kaydınızı oluşturduktan sonra dilerseniz yeni bir toplantı oluşturmak veya parolasına sahip olduğunuz başka bir toplantıya kayıt olmak için kırmızı butona basarak ana menüye sevk olabilirsiniz
-7. toplantıya kayıtlı olan kişilerin belirlediği tarihleri google takviminize eklemek için tarihin sağında bulunan mavi butona basmanız ilgili google Takvimler sayfasına yönlendirilmenizi sağlar
+2. **Toplantı Parolası:**
+   - Toplantı oluşturduktan sonra, oluşturulan parolayı not etmekte fayda var. Bu parola, toplantıya katılım için gereklidir ve daha sonra erişmek istediğinizde kullanılacaktır.
+
+3. **Toplantı Arama:**
+   - Sağ tarafta bulunan arama alanına parolayı girerek ilgili toplantıya erişebilirsiniz.
+   
+4. **Toplantı Detayları:**
+   - İlk oluşturan kişinin ismi ve uygun tarih görüntülenir. Buradan kendi isminize uygun tarihi ekleyebilirsiniz.
+
+5. **Uygun Tarih Bulma:**
+   - Tüm kullanıcıların kayıtlı tarihleri çakışırsa, uygulama size uygun tarihi bildirir.
+   - Tarihler çakışmazsa, uygun bir tarih bulunamadığı belirtilir.
+
+6. **Ana Menüye Dönme:**
+   - Bir toplantıya kayıt olduktan sonra, yeni bir toplantı oluşturabilir veya farklı bir toplantıya katılmak için kırmızı butona basarak ana menüye dönebilirsiniz.
+
+7. **Google Takvim Entegrasyonu:**
+   - Toplantıya kayıtlı kişilerin belirlediği tarihleri Google Takviminize eklemek için tarihlerin sağında bulunan mavi butona basabilirsiniz. Bu buton sizi ilgili Google Takvim sayfasına yönlendirecektir.
+   
 
 ## Yayın
 
