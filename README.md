@@ -1,6 +1,6 @@
 # Toplantı Yönetim Uygulaması
 
-Bu proje, İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği Öğrencisi 222523208 Numaralı Mert Gezici Adlı Öğrencinin Görsel Programlama Vize Projesidir. Bu proje kullanıcıların toplantılar oluşturmasına ve katılımcıların uygun zamanlarını belirlemesine olanak tanıyan bir web uygulamasıdır.
+Bu proje, İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi Mert Gezici'nin görsel programlama vize projesidir. Kullanıcıların toplantılar oluşturmasına ve katılımcıların uygun zamanlarını belirlemesine olanak tanıyan bir web uygulamasıdır.
 
 ## Özellikler
 
@@ -13,6 +13,7 @@ Bu proje, İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği Öğrencisi
 
 - React.js
 - react-hot-toast
+
 ## Kullanım Kılavuzu
 
 1. **Toplantı Oluşturma:**
@@ -38,12 +39,12 @@ Bu proje, İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği Öğrencisi
 7. **Google Takvim Entegrasyonu:**
    - Toplantıya kayıtlı kişilerin belirlediği tarihleri Google Takviminize eklemek için tarihlerin sağında bulunan mavi butona basabilirsiniz. Bu buton sizi ilgili Google Takvim sayfasına yönlendirecektir.
    
-
 ## Yayın
 
-https://meethubproject.netlify.app/
+Bu projeyi şu adresten Canlı Olarak inceleyebilirsiniz: [Toplantı Yönetim Uygulaması Demo](https://meethubproject.netlify.app/)
 
-## Kendi localHostunuzda Çalıştırmak için
+## Kendi Localhost'unuzda Çalıştırmak İçin
 
-1. projeyi indirin
-2. Terminale npm run dev yazdığınızda ilgili localhost adresinizde çalışacaktır
+1. Projeyi indirin.
+2. Terminalde aşağıdaki komutu çalıştırın:
+   npm run dev
