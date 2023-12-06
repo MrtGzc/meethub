@@ -1,6 +1,6 @@
 # Toplantı Yönetim Uygulaması
 
-Bu proje, kullanıcıların toplantılar oluşturmasına ve katılımcıların uygun zamanlarını belirlemesine olanak tanıyan bir web uygulamasıdır.
+Bu proje, İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği Öğrencisi 222523208 Numaralı Mert Gezici Adlı Öğrencinin Görsel Programlama Vize Projesidir ve kullanıcıların toplantılar oluşturmasına ve katılımcıların uygun zamanlarını belirlemesine olanak tanıyan bir web uygulamasıdır.
 
 ## Özellikler
 
