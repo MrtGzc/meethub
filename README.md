@@ -46,5 +46,5 @@ Bu projeyi şu adresten Canlı Olarak inceleyebilirsiniz: [Toplantı Yönetim Uy
 ## Kendi Localhost'unuzda Çalıştırmak İçin
 
 1. Projeyi indirin.
-2. Terminalde aşağıdaki komutu çalıştırın:
+2. Terminalde projenin olduğu dosyaya gelerek ilgili komutu çalıştırın:
    npm run dev
